@@ -1,0 +1,18 @@
+0 verbose cli /home/vscode/.nodenv/versions/22.12.0/bin/node /home/vscode/.nodenv/versions/22.12.0/bin/npm
+1 info using npm@10.9.0
+2 info using node@v22.12.0
+3 silly config load:file:/home/vscode/.nodenv/versions/22.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/.npmrc
+5 silly config load:file:/home/vscode/.npmrc
+6 silly config load:file:/home/vscode/.nodenv/versions/22.12.0/etc/npmrc
+7 verbose title npm config get prefix
+8 verbose argv "config" "get" "prefix"
+9 verbose logfile logs-max:10 dir:/home/vscode/.npm/_logs/2025-03-17T23_42_43_227Z-
+10 verbose logfile /home/vscode/.npm/_logs/2025-03-17T23_42_43_227Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78
+13 verbose os Linux 6.8.0-1021-azure
+14 verbose node v22.12.0
+15 verbose npm  v10.9.0
+16 verbose exit 0
+17 info ok

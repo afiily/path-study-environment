@@ -1,0 +1,3 @@
+/*    /index.html   200
+git add _redirects netlify.toml
+git commit -m "Add Netlify redirects"

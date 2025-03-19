@@ -1,0 +1,148 @@
+2025-03-17 23:42:06.663 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2025-03-17 23:42:06.663 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-ddc367ed5c8936efe395cffeec279b04ffd7db78","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20250317T234206"}
+2025-03-17 23:42:06.663 [info] 
+
+
+
+
+2025-03-17 23:42:06.663 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-17 23:42:06.663 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2025-03-17 23:42:06.663 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2025-03-17 23:42:06.664 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2025-03-17 23:42:06.694 [trace] ExtensionManagementService#cleanUp
+2025-03-17 23:42:06.694 [trace] ExtensionManagementService#removeTempDeleteFolders
+2025-03-17 23:42:06.696 [info] Extension host agent started.
+2025-03-17 23:42:06.787 [debug] No extensions are marked as removed.
+2025-03-17 23:42:06.788 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-17 23:42:06.788 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-17 23:42:06.788 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-03-17 23:42:06.794 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/formulahendry.code-runner-0.12.2
+2025-03-17 23:42:06.794 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-pack-0.29.2024091906
+2025-03-17 23:42:06.794 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-debug-0.58.2025022807
+2025-03-17 23:42:06.794 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.4
+2025-03-17 23:42:07.858 [info] [127.0.0.1][4af8d88c][ManagementConnection] New connection established.
+2025-03-17 23:42:07.860 [trace] [127.0.0.1][53ca6a6c][ExtensionHostConnection] - startParams language: ja
+2025-03-17 23:42:07.860 [trace] [127.0.0.1][53ca6a6c][ExtensionHostConnection] - startParams env: {}
+2025-03-17 23:42:07.861 [info] [127.0.0.1][53ca6a6c][ExtensionHostConnection] New connection established.
+2025-03-17 23:42:07.906 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2025-03-17 23:42:07.914 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-17 23:42:08.742 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-03-17 23:42:08.743 [trace] #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - begin POST {"Client-Id":"NO_AUTH","client-version":"1DS-Web-JS-3.2.13","apikey":"5bbf946d11a54f6783919c455abaddaf-fd62977b-c92d-4714-a45d-649d06980372-7168","upload-time":"1742254928741","time-delta-to-apply-millis":"use-collector-delta","cache-control":"no-cache, no-store","content-type":"application/x-json-stream","Content-Type":"application/json","Content-Length":"2265"}
+2025-03-17 23:42:08.829 [trace] ExtensionManagementService.updateControlCache
+2025-03-17 23:42:08.830 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-03-17 23:42:08.831 [trace] Started scanning system extensions
+2025-03-17 23:42:08.833 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2025-03-17 23:42:08.835 [trace] Scanning extensions using UI language: ja
+2025-03-17 23:42:08.841 [trace] #2: https://main.vscode-cdn.net/extensions/marketplace.json - begin GET {}
+2025-03-17 23:42:08.846 [info] Log level changed to info
+2025-03-17 23:42:09.524 [info] [127.0.0.1][53ca6a6c][ExtensionHostConnection] <335> Launched Extension Host Process.
+2025-03-17 23:43:23.131 [info] [127.0.0.1][e52ea81c][ManagementConnection] New connection established.
+2025-03-17 23:43:25.629 [info] [127.0.0.1][8c92254e][ExtensionHostConnection] New connection established.
+2025-03-17 23:43:25.650 [info] [127.0.0.1][8c92254e][ExtensionHostConnection] <2329> Launched Extension Host Process.
+2025-03-17 23:43:26.595 [warning] RequestStore#acceptReply was called without receiving a matching request 131
+2025-03-17 23:43:26.596 [warning] RequestStore#acceptReply was called without receiving a matching request 132
+2025-03-17 23:43:26.597 [warning] RequestStore#acceptReply was called without receiving a matching request 133
+2025-03-17 23:43:26.597 [warning] RequestStore#acceptReply was called without receiving a matching request 134
+2025-03-17 23:43:26.597 [warning] RequestStore#acceptReply was called without receiving a matching request 135
+2025-03-17 23:43:26.597 [warning] RequestStore#acceptReply was called without receiving a matching request 136
+2025-03-17 23:43:26.598 [warning] RequestStore#acceptReply was called without receiving a matching request 137
+2025-03-17 23:43:26.598 [warning] RequestStore#acceptReply was called without receiving a matching request 138
+2025-03-17 23:43:26.598 [warning] RequestStore#acceptReply was called without receiving a matching request 139
+2025-03-17 23:43:26.599 [warning] RequestStore#acceptReply was called without receiving a matching request 140
+2025-03-17 23:43:26.599 [warning] RequestStore#acceptReply was called without receiving a matching request 141
+2025-03-17 23:43:26.601 [warning] RequestStore#acceptReply was called without receiving a matching request 142
+2025-03-17 23:43:26.602 [warning] RequestStore#acceptReply was called without receiving a matching request 143
+2025-03-17 23:43:26.602 [warning] RequestStore#acceptReply was called without receiving a matching request 144
+2025-03-17 23:43:26.602 [warning] RequestStore#acceptReply was called without receiving a matching request 145
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 146
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 147
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 148
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 149
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 150
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 151
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 152
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 153
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 154
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 155
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 156
+2025-03-17 23:43:26.603 [warning] RequestStore#acceptReply was called without receiving a matching request 157
+2025-03-17 23:43:26.604 [warning] RequestStore#acceptReply was called without receiving a matching request 158
+2025-03-17 23:43:26.604 [warning] RequestStore#acceptReply was called without receiving a matching request 159
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 160
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 161
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 162
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 163
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 164
+2025-03-17 23:43:26.605 [warning] RequestStore#acceptReply was called without receiving a matching request 165
+2025-03-17 23:43:26.606 [warning] RequestStore#acceptReply was called without receiving a matching request 166
+2025-03-17 23:43:26.606 [warning] RequestStore#acceptReply was called without receiving a matching request 167
+2025-03-17 23:43:26.606 [warning] RequestStore#acceptReply was called without receiving a matching request 168
+2025-03-17 23:43:26.606 [warning] RequestStore#acceptReply was called without receiving a matching request 169
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 170
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 171
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 172
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 173
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 174
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 175
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 176
+2025-03-17 23:43:26.607 [warning] RequestStore#acceptReply was called without receiving a matching request 177
+2025-03-17 23:43:26.608 [warning] RequestStore#acceptReply was called without receiving a matching request 178
+2025-03-17 23:43:26.608 [warning] RequestStore#acceptReply was called without receiving a matching request 179
+2025-03-17 23:43:26.608 [warning] RequestStore#acceptReply was called without receiving a matching request 180
+2025-03-17 23:43:26.608 [warning] RequestStore#acceptReply was called without receiving a matching request 181
+2025-03-17 23:43:26.608 [warning] RequestStore#acceptReply was called without receiving a matching request 182
+2025-03-17 23:43:29.461 [warning] RequestStore#acceptReply was called without receiving a matching request 183
+2025-03-17 23:43:29.463 [warning] RequestStore#acceptReply was called without receiving a matching request 184
+2025-03-17 23:43:29.465 [warning] RequestStore#acceptReply was called without receiving a matching request 185
+2025-03-17 23:43:29.466 [warning] RequestStore#acceptReply was called without receiving a matching request 186
+2025-03-17 23:43:29.467 [warning] RequestStore#acceptReply was called without receiving a matching request 187
+2025-03-17 23:43:29.468 [warning] RequestStore#acceptReply was called without receiving a matching request 188
+2025-03-17 23:43:29.469 [warning] RequestStore#acceptReply was called without receiving a matching request 189
+2025-03-17 23:43:29.470 [warning] RequestStore#acceptReply was called without receiving a matching request 190
+2025-03-17 23:43:29.470 [warning] RequestStore#acceptReply was called without receiving a matching request 191
+2025-03-17 23:43:29.471 [warning] RequestStore#acceptReply was called without receiving a matching request 192
+2025-03-17 23:43:29.473 [warning] RequestStore#acceptReply was called without receiving a matching request 193
+2025-03-17 23:43:29.474 [warning] RequestStore#acceptReply was called without receiving a matching request 194
+2025-03-17 23:43:29.474 [warning] RequestStore#acceptReply was called without receiving a matching request 195
+2025-03-17 23:43:29.770 [warning] RequestStore#acceptReply was called without receiving a matching request 196
+2025-03-17 23:43:29.770 [warning] RequestStore#acceptReply was called without receiving a matching request 197
+2025-03-17 23:43:29.771 [warning] RequestStore#acceptReply was called without receiving a matching request 198
+2025-03-17 23:43:29.771 [warning] RequestStore#acceptReply was called without receiving a matching request 199
+2025-03-17 23:43:29.773 [warning] RequestStore#acceptReply was called without receiving a matching request 200
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 201
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 202
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 203
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 204
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 205
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 206
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 207
+2025-03-17 23:43:29.774 [warning] RequestStore#acceptReply was called without receiving a matching request 208
+2025-03-17 23:43:30.749 [warning] RequestStore#acceptReply was called without receiving a matching request 209
+2025-03-17 23:43:30.753 [warning] RequestStore#acceptReply was called without receiving a matching request 210
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 211
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 212
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 213
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 214
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 215
+2025-03-17 23:43:30.756 [warning] RequestStore#acceptReply was called without receiving a matching request 216
+2025-03-17 23:43:30.757 [warning] RequestStore#acceptReply was called without receiving a matching request 217
+2025-03-17 23:43:30.758 [warning] RequestStore#acceptReply was called without receiving a matching request 218
+2025-03-17 23:43:30.760 [warning] RequestStore#acceptReply was called without receiving a matching request 219
+2025-03-17 23:43:30.761 [warning] RequestStore#acceptReply was called without receiving a matching request 220
+2025-03-17 23:43:30.761 [warning] RequestStore#acceptReply was called without receiving a matching request 221
+2025-03-17 23:44:45.775 [warning] RequestStore#acceptReply was called without receiving a matching request 222
+2025-03-17 23:44:45.776 [warning] RequestStore#acceptReply was called without receiving a matching request 223
+2025-03-17 23:44:45.776 [warning] RequestStore#acceptReply was called without receiving a matching request 224
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 225
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 226
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 227
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 228
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 229
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 230
+2025-03-17 23:44:45.778 [warning] RequestStore#acceptReply was called without receiving a matching request 231
+2025-03-17 23:44:45.779 [warning] RequestStore#acceptReply was called without receiving a matching request 232
+2025-03-17 23:44:45.780 [warning] RequestStore#acceptReply was called without receiving a matching request 233
+2025-03-17 23:44:45.781 [warning] RequestStore#acceptReply was called without receiving a matching request 234
+2025-03-17 23:47:06.696 [info] New EH opened, aborting shutdown
+2025-03-18 00:09:00.781 [info] [127.0.0.1][8c92254e][ExtensionHostConnection] The client has reconnected.
+2025-03-18 01:07:05.694 [info] [127.0.0.1][e52ea81c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

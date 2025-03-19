@@ -1,0 +1,140 @@
+2025-03-19 05:11:12.341 [info] Extension host with pid 809 started
+2025-03-19 05:11:12.342 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock'
+2025-03-19 05:11:12.366 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-19 05:11:12.385 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': The pid 335 appears to be gone.
+2025-03-19 05:11:12.385 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': Deleting a stale lock.
+2025-03-19 05:11:12.405 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': Lock acquired.
+2025-03-19 05:11:12.540 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-19 05:11:12.541 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-03-19 05:11:12.542 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-19 05:11:12.542 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.default'
+2025-03-19 05:11:12.542 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-03-19 05:11:12.543 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-19 05:11:12.544 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-03-19 05:11:12.544 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-03-19 05:11:12.544 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onWebviewPanel:browserPreview'
+2025-03-19 05:11:12.545 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-03-19 05:11:12.545 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-19 05:11:13.083 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-03-19 05:11:13.083 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-03-19 05:11:13.083 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-03-19 05:11:13.087 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-03-19 05:11:13.087 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-03-19 05:11:16.582 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-19 05:11:16.582 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-19 05:11:17.932 [info] Eager extensions activated
+2025-03-19 05:11:17.932 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:17.933 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:17.933 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:17.933 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:17.934 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:17.934 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 05:11:20.988 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6533
+2025-03-19 05:11:22.079 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.080 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/.vsixmanifest'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.081 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/LICENSE.txt'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.082 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/NOTICE.md'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.082 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/package.json'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.083 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/readme.md'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.083 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/syntaxes'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.084 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/syntaxes/ref.tmGrammar.json'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.084 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/assets'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.085 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/.86c8c731-95bd-4a7b-979c-78d4dd8f9c00/assets/status'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:22.360 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6534
+2025-03-19 05:11:24.782 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.nodenv/shims/.nodenv-shim'
+    at Function.e (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:18097)
+    at Object.stat (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:16044)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:652:18258)
+2025-03-19 05:11:25.299 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2025-03-19 05:11:31.458 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:11:33.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:11:39.803 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:11:45.158 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:11:50.729 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:11:55.860 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:12:01.070 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:12:06.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:12:11.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:12:16.705 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:12:21.937 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:14:21.612 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:14:27.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:14:32.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:14:37.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6535
+2025-03-19 05:14:45.387 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6536
+2025-03-19 05:14:53.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6536
+2025-03-19 05:14:58.543 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6536
+2025-03-19 05:15:03.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6536
+2025-03-19 05:15:08.786 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6536
+2025-03-19 05:15:28.397 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:15:33.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:15:38.664 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:15:43.782 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:15:48.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:16:06.114 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:16:11.236 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:01.553 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:06.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:11.798 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:16.951 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:22.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:28.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:36.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6537
+2025-03-19 05:26:42.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6538
+2025-03-19 05:26:47.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6538
+2025-03-19 05:26:52.368 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6538
+2025-03-19 05:26:57.494 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6539
+2025-03-19 05:27:02.623 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6539
+2025-03-19 05:27:07.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6539
+2025-03-19 05:27:17.852 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6540
+2025-03-19 05:27:25.896 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6540
+2025-03-19 05:27:43.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6540
+2025-03-19 05:27:48.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6540
+2025-03-19 05:27:54.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6540
+2025-03-19 05:28:06.899 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6541
+2025-03-19 05:28:12.025 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6541
+2025-03-19 05:28:17.147 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:28:46.051 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:28:57.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:29:03.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:29:08.189 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:33:46.571 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:33:51.871 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6542
+2025-03-19 05:33:57.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:34:02.158 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:34:07.289 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:34:13.264 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:34:18.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:34:23.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:35:07.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:35:12.391 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
