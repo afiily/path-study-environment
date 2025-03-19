@@ -39,3 +39,9 @@
 2025-03-19 05:11:38.894 [info] [FolderRepositoryManager+1] Using globalState assignableUsers for 1.
 2025-03-19 05:11:38.896 [info] [FolderRepositoryManager+0] Using globalState assignableUsers for 2.
 2025-03-19 05:11:39.151 [info] [Review+1] No matching pull request metadata found on GitHub for current branch master
+2025-03-19 05:36:14.967 [info] [Review+3] Validate state in progress
+2025-03-19 05:36:14.967 [info] [Review+3] Validating state...
+2025-03-19 05:36:14.968 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-03-19 05:36:14.968 [info] [FolderRepositoryManager+3] No GitHub remotes found for folder /home/vscode
+2025-03-19 05:36:15.000 [info] [Review+3] No matching pull request metadata found locally for current branch main
+2025-03-19 05:36:15.013 [info] [Review+3] No matching pull request metadata found on GitHub for current branch main

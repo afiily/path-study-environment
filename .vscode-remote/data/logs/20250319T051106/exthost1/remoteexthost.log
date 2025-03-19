@@ -138,3 +138,9 @@
 2025-03-19 05:34:23.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
 2025-03-19 05:35:07.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
 2025-03-19 05:35:12.391 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:35:17.585 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6543
+2025-03-19 05:35:35.347 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-03-19 05:35:41.557 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-19 05:35:41.558 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-19 05:35:41.558 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-03-19 05:36:14.957 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6545
