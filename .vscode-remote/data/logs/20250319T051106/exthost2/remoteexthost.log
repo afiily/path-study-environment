@@ -1,0 +1,1331 @@
+2025-03-19 06:10:00.562 [info] Extension host with pid 29700 started
+2025-03-19 06:10:00.562 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock'
+2025-03-19 06:10:00.567 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-19 06:10:00.573 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5/vscode.lock': The lock does not look stale, elapsed: 581 ms, giving up.
+2025-03-19 06:10:00.578 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock'
+2025-03-19 06:10:00.581 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-19 06:10:00.581 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock': The pid 2329 appears to be gone.
+2025-03-19 06:10:00.581 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock': Deleting a stale lock.
+2025-03-19 06:10:00.591 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock': Lock acquired.
+2025-03-19 06:10:01.239 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-19 06:10:01.240 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-03-19 06:10:01.241 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-19 06:10:01.241 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.default'
+2025-03-19 06:10:01.242 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-03-19 06:10:01.242 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-19 06:10:01.242 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-03-19 06:10:01.243 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-03-19 06:10:01.243 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-03-19 06:10:01.243 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-19 06:10:01.574 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-03-19 06:10:01.574 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-03-19 06:10:01.574 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-03-19 06:10:01.579 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-03-19 06:10:01.580 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-03-19 06:10:03.949 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-19 06:10:03.949 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-19 06:10:05.063 [info] Eager extensions activated
+2025-03-19 06:10:05.064 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:05.064 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:05.065 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:05.065 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:05.065 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:05.065 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.099 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:07.100 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.014 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2025-03-19 06:10:08.382 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.384 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.384 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.384 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.385 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.386 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.387 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.387 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.387 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.388 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.388 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.388 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.389 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.389 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.389 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.390 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.390 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.390 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.391 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.391 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.391 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.392 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.392 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.392 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.393 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.393 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.393 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.393 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086692)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.468 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:08.469 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:09.861 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as afiily.
+    at Rme.fetchCopilotTokenEnvelope (/home/vscode/.vscode-remote/extensions/github.copilot-1.288.0/lib/src/auth/copilotTokenManager.ts:96:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-19 06:10:10.153 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.153 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.154 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.154 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.155 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.155 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.155 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.156 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.156 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.156 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.157 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.157 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.157 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.157 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.158 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.158 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.159 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.159 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.160 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.160 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.161 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.161 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.161 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.162 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.162 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.162 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.162 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:10:10.163 [error] Error: Git error
+    at ChildProcess.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1086613)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-03-19 06:29:14.517 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-03-19 06:29:14.518 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/515f79b5-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-19 06:29:14.570 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) 
+2025-03-19 06:29:14.574 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.575 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.575 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.575 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.577 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.577 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.578 [error] Canceled: Canceled
+    at zc (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156480
+    at Array.forEach (<anonymous>)
+    at qy.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:156420)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10084)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.580 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at Th.L [as value] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1000063)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.586 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at Mf.updateActiveReviewCount (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:21287)
+    at Mf.removeRepo (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:22472)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4265)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.589 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at hf.setReviewModeContexts (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:19366)
+    at hf.removePrFromView (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:19993)
+    at Of.clear (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2171:8134)
+    at Of.dispose (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2173:188)
+    at Ef.removeReviewManager (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:51034)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4283)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.590 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at Th.L [as value] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1000063)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.591 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at Mf.updateActiveReviewCount (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:21287)
+    at Mf.removeRepo (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:22472)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4265)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.591 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at Th.L [as value] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1000063)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.595 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at t.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/github/dist/extension.js:2:217805)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/github/dist/extension.js:2:218764
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.595 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at Mf.updateActiveReviewCount (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:21287)
+    at Mf.removeRepo (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:22472)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4265)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.596 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at Th.L [as value] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1000063)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.596 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at t.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/github/dist/extension.js:2:217805)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/github/dist/extension.js:2:218764
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.597 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at Mf.updateActiveReviewCount (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:21287)
+    at Mf.removeRepo (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:22472)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4265)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.598 [error] Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41039)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at r.registerCommand.description (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:39873)
+    at kw.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:41559)
+    at kw.g (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40636)
+    at kw.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:112:40543)
+    at Object.executeCommand (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:172:37375)
+    at e (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447845)
+    at Object.i [as setContext] (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:447960)
+    at hf.setReviewModeContexts (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:19366)
+    at hf.removePrFromView (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:19993)
+    at Of.clear (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2171:8134)
+    at Of.dispose (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2173:188)
+    at Ef.removeReviewManager (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2513:51034)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2526:4283)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Th.value (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2081:444625)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0/dist/extension.js:2190:26488
+    at Th.value (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1120702)
+    at D.B (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at D.C (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2445)
+    at D.fire (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:27:2662)
+    at Object.p [as dispose] (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1022703)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029021
+    at Array.forEach (<anonymous>)
+    at b.dispose (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1029007)
+    at fv.<anonymous> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:8922)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at fv.<anonymous> (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions/git/dist/main.js:2:1002547)
+    at fv.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:108:9018)
+    at hi (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:14994
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at zz.eb (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:11921)
+    at file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9876
+    at Array.map (<anonymous>)
+    at zz.$ (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:9864)
+    at zz.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:116:10107)
+    at FI.terminate (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:15108)
+    at G5.a (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:190:12021)
+    at G5.h (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:28:75197)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7) setContext undefined
+2025-03-19 06:29:14.599 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at cw.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:109:54839)
+    at Object.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:174:18017)
+    at useProxySettings (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:182:16)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:119:13
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:707:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at listOnTimeout (node:internal/timers:545:9)
+    at processTimers (node:internal/timers:519:7) 
+2025-03-19 06:29:14.638 [info] Extension host with pid 29700 exiting with code 0

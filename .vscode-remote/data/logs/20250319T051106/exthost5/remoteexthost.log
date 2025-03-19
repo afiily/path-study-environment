@@ -1,0 +1,40 @@
+2025-03-19 06:47:46.349 [info] Extension host with pid 55484 started
+2025-03-19 06:47:46.367 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763/vscode.lock': Lock acquired.
+2025-03-19 06:47:46.799 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-19 06:47:46.800 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-03-19 06:47:46.800 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-19 06:47:46.801 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-03-19 06:47:46.801 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-03-19 06:47:46.802 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-03-19 06:47:47.265 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-03-19 06:47:47.265 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-03-19 06:47:47.266 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-03-19 06:47:47.272 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-03-19 06:47:47.272 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-03-19 06:47:48.046 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-19 06:47:48.048 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-19 06:47:48.791 [info] Eager extensions activated
+2025-03-19 06:47:48.791 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.794 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.795 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.795 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.796 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.796 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:48.796 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:47:54.514 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2025-03-19 06:47:56.313 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as afiily.
+    at Rme.fetchCopilotTokenEnvelope (/home/vscode/.vscode-remote/extensions/github.copilot-1.288.0/lib/src/auth/copilotTokenManager.ts:96:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-19 06:58:55.424 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-03-19 06:58:55.425 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-19 06:58:55.482 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at cw.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:109:54839)
+    at Object.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:174:18017)
+    at useProxySettings (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:182:16)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:119:13
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:707:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2025-03-19 06:58:55.509 [info] Extension host with pid 55484 exiting with code 0

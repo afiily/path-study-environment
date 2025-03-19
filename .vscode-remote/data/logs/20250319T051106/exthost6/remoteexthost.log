@@ -1,0 +1,43 @@
+2025-03-19 06:53:57.871 [info] Extension host with pid 60336 started
+2025-03-19 06:53:57.871 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763/vscode.lock'
+2025-03-19 06:53:57.894 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-19 06:53:57.928 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763/vscode.lock': The lock does not look stale, elapsed: 1003 ms, giving up.
+2025-03-19 06:53:57.962 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763-1/vscode.lock': Lock acquired.
+2025-03-19 06:53:58.068 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-03-19 06:53:58.069 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2025-03-19 06:53:58.071 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-19 06:53:58.072 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2025-03-19 06:53:58.072 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2025-03-19 06:53:58.072 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-03-19 06:53:58.504 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2025-03-19 06:53:58.504 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2025-03-19 06:53:58.505 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2025-03-19 06:53:58.509 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2025-03-19 06:53:58.509 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2025-03-19 06:53:59.353 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-19 06:53:59.354 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-19 06:54:00.339 [info] Eager extensions activated
+2025-03-19 06:54:00.339 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.342 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.342 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.342 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.343 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.343 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:00.343 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-03-19 06:54:04.722 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2025-03-19 06:54:06.940 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as afiily.
+    at Rme.fetchCopilotTokenEnvelope (/home/vscode/.vscode-remote/extensions/github.copilot-1.288.0/lib/src/auth/copilotTokenManager.ts:96:23)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-19 07:22:29.079 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-03-19 07:22:29.083 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/60bf763-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-19 07:22:29.133 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at new dR (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:155028)
+    at qy.U (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:159639)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:29:157133)
+    at cw.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:109:54839)
+    at Object.resolveProxy (file:///vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/out/vs/workbench/api/node/extensionHostProcess.js:174:18017)
+    at useProxySettings (/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:182:16)
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:119:13
+    at /vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node_modules/@vscode/proxy-agent/out/index.js:707:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2025-03-19 07:22:29.158 [info] Extension host with pid 60336 exiting with code 0

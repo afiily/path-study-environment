@@ -1,0 +1,59 @@
+2025-03-19 10:43:34.378 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2025-03-19 10:43:34.378 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-ddc367ed5c8936efe395cffeec279b04ffd7db78","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20250319T104334"}
+2025-03-19 10:43:34.378 [info] 
+
+
+
+
+2025-03-19 10:43:34.378 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-19 10:43:34.378 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2025-03-19 10:43:34.378 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2025-03-19 10:43:34.390 [trace] ExtensionManagementService#cleanUp
+2025-03-19 10:43:34.390 [trace] ExtensionManagementService#removeTempDeleteFolders
+2025-03-19 10:43:34.392 [info] Extension host agent started.
+2025-03-19 10:43:34.432 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-19 10:43:34.432 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-19 10:43:34.432 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-03-19 10:43:34.434 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2025-03-19 10:43:34.437 [debug] Deleting extensions marked as removed: ["github.copilot-1.284.0"]
+2025-03-19 10:43:34.441 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-03-19 10:43:34.442 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2025-03-19 10:43:34.443 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.13
+2025-03-19 10:43:34.443 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2025.3.2025031201
+2025-03-19 10:43:34.443 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.4
+2025-03-19 10:43:34.444 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2025-03-19 10:43:34.669 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2025-03-19 10:43:35.313 [trace] [127.0.0.1][6f2d29f6][ExtensionHostConnection] - startParams language: ja
+2025-03-19 10:43:35.313 [trace] [127.0.0.1][6f2d29f6][ExtensionHostConnection] - startParams env: {}
+2025-03-19 10:43:35.316 [info] [127.0.0.1][6f2d29f6][ExtensionHostConnection] New connection established.
+2025-03-19 10:43:35.650 [trace] Deleting marked for removal extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0
+2025-03-19 10:43:35.663 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.284.0
+2025-03-19 10:43:35.663 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:35.666 [info] Marked extension as removed github.copilot-1.284.0
+2025-03-19 10:43:35.671 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2025-03-19 10:43:35.671 [trace] [File Watcher (node.js)] [CHANGED] /home/vscode/.vscode-remote/extensions/.obsolete
+2025-03-19 10:43:35.677 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-03-19 10:43:35.686 [info] [127.0.0.1][6f2d29f6][ExtensionHostConnection] <813> Launched Extension Host Process.
+2025-03-19 10:43:35.747 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/vscode/.vscode-remote/extensions/.obsolete
+2025-03-19 10:43:35.900 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0
+2025-03-19 10:43:35.902 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:35.954 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:35.955 [info] Deleted marked for removal extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0
+2025-03-19 10:43:35.961 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2025-03-19 10:43:35.977 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0
+2025-03-19 10:43:35.980 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:36.059 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:36.062 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2025-03-19 10:43:36.136 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2025-03-19 10:43:36.137 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.284.0.443bd2ee.vsctmp
+2025-03-19 10:43:36.209 [info] [127.0.0.1][00a76098][ManagementConnection] New connection established.
+2025-03-19 10:43:36.423 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-03-19 10:43:36.424 [trace] #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - begin POST {"Client-Id":"NO_AUTH","client-version":"1DS-Web-JS-3.2.13","apikey":"5bbf946d11a54f6783919c455abaddaf-fd62977b-c92d-4714-a45d-649d06980372-7168","upload-time":"1742381016423","time-delta-to-apply-millis":"use-collector-delta","cache-control":"no-cache, no-store","content-type":"application/x-json-stream","Content-Type":"application/json","Content-Length":"2264"}
+2025-03-19 10:43:36.485 [trace] ExtensionManagementService.updateControlCache
+2025-03-19 10:43:36.485 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2025-03-19 10:43:36.486 [trace] Started scanning system extensions
+2025-03-19 10:43:36.487 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2025-03-19 10:43:36.488 [trace] Scanning extensions using UI language: ja
+2025-03-19 10:43:36.491 [info] Log level changed to info
+2025-03-19 10:43:59.956 [error] [File Watcher] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2025-03-19 10:43:59.960 [error] [File Watcher (universal)] No such file or directory

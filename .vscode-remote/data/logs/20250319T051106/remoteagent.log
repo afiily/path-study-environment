@@ -47,3 +47,113 @@
 2025-03-19 05:11:20.013 [info] Marked extension as removed github.copilot-1.284.0
 2025-03-19 05:11:20.039 [info] Extension installed successfully: github.copilot file:///home/vscode/.vscode-remote/extensions/extensions.json
 2025-03-19 05:16:06.469 [info] New EH opened, aborting shutdown
+2025-03-19 06:09:55.564 [info] [127.0.0.1][583079d7][ExtensionHostConnection] New connection established.
+2025-03-19 06:09:55.569 [info] [127.0.0.1][583079d7][ExtensionHostConnection] <29700> Launched Extension Host Process.
+2025-03-19 06:09:55.605 [info] [127.0.0.1][583079d7][ExtensionHostConnection] <29700><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 06:09:55.614 [info] [127.0.0.1][1e377a11][ManagementConnection] New connection established.
+2025-03-19 06:09:58.431 [info] [127.0.0.1][888bc0de][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 06:14:56.122 [info] [127.0.0.1][bc01d29a][ExtensionHostConnection] <809> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 06:24:14.267 [info] [127.0.0.1][888bc0de][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 06:24:14.267 [info] [127.0.0.1][34c53702][ManagementConnection] New connection established.
+2025-03-19 06:24:14.269 [info] [127.0.0.1][6432e7fe][ExtensionHostConnection] New connection established.
+2025-03-19 06:24:14.272 [info] [127.0.0.1][6432e7fe][ExtensionHostConnection] <39224> Launched Extension Host Process.
+2025-03-19 06:24:14.308 [info] [127.0.0.1][6432e7fe][ExtensionHostConnection] <39224><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 06:24:33.327 [info] [127.0.0.1][1e377a11][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 06:29:14.418 [info] [127.0.0.1][888bc0de][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 06:29:14.913 [info] [127.0.0.1][583079d7][ExtensionHostConnection] <29700> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 06:42:13.448 [info] [127.0.0.1][1e377a11][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 06:42:13.449 [info] [127.0.0.1][ce5f0732][ExtensionHostConnection] New connection established.
+2025-03-19 06:42:13.454 [info] [127.0.0.1][ce5f0732][ExtensionHostConnection] <50992> Launched Extension Host Process.
+2025-03-19 06:42:13.499 [info] [127.0.0.1][ce5f0732][ExtensionHostConnection] <50992><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 06:42:13.830 [info] [127.0.0.1][0d51c17f][ManagementConnection] New connection established.
+2025-03-19 06:42:29.158 [info] [127.0.0.1][34c53702][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 06:47:13.607 [info] [127.0.0.1][1e377a11][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 06:47:13.752 [info] [127.0.0.1][6432e7fe][ExtensionHostConnection] <39224> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 06:47:43.099 [info] [127.0.0.1][34c53702][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 06:47:43.100 [info] [127.0.0.1][790b7693][ManagementConnection] New connection established.
+2025-03-19 06:47:45.170 [info] [127.0.0.1][8e2f3bc0][ExtensionHostConnection] New connection established.
+2025-03-19 06:47:45.180 [info] [127.0.0.1][8e2f3bc0][ExtensionHostConnection] <55484> Launched Extension Host Process.
+2025-03-19 06:47:45.292 [info] [127.0.0.1][8e2f3bc0][ExtensionHostConnection] <55484><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 06:48:03.224 [info] [127.0.0.1][0d51c17f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 06:52:43.221 [info] [127.0.0.1][34c53702][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 06:52:43.446 [info] [127.0.0.1][ce5f0732][ExtensionHostConnection] <50992> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 06:52:56.902 [info] [127.0.0.1][790b7693][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 06:53:55.250 [info] [127.0.0.1][0d51c17f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 06:53:55.250 [info] [127.0.0.1][790b7693][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 06:53:55.251 [info] [127.0.0.1][53d6dc39][ManagementConnection] New connection established.
+2025-03-19 06:53:56.492 [info] [127.0.0.1][4c8aa13b][ExtensionHostConnection] New connection established.
+2025-03-19 06:53:56.500 [info] [127.0.0.1][4c8aa13b][ExtensionHostConnection] <60336> Launched Extension Host Process.
+2025-03-19 06:53:56.572 [info] [127.0.0.1][4c8aa13b][ExtensionHostConnection] <60336><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 06:58:55.376 [info] [127.0.0.1][0d51c17f][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 06:58:55.377 [info] [127.0.0.1][790b7693][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 06:58:55.552 [info] [127.0.0.1][8e2f3bc0][ExtensionHostConnection] <55484> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 07:17:28.797 [info] [127.0.0.1][9e570446][ExtensionHostConnection] New connection established.
+2025-03-19 07:17:28.800 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908> Launched Extension Host Process.
+2025-03-19 07:17:28.836 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 07:17:29.665 [info] [127.0.0.1][7894fe2b][ManagementConnection] New connection established.
+2025-03-19 07:17:44.007 [error] [File Watcher] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2025-03-19 07:17:44.008 [error] [File Watcher (universal)] No such file or directory
+2025-03-19 07:17:47.670 [info] [127.0.0.1][53d6dc39][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-19 07:22:22.186 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 
+<--- Last few GCs --->
+
+[71908:0x43961570]   292969 ms: Scavenge (reduce) 2044.9 (2078.6) -> 2044.9 (2079.6) MB, 21.22 / 0.00 ms  (average mu = 0.715, current mu = 0.275) allocation failure; 
+[71908:0x43961570]   293376 ms: Mark-Compact (reduce) 2045.8 (2079.6) -> 2045.8 (2080.6) MB, 311.72 / 0.02 ms  (+ 786.4 ms in 186 steps since start of marking, biggest step 13.6 ms, walltime since start of marking 1587 ms) (average mu = 0.625, current mu 
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+
+2025-03-19 07:22:22.207 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  1: 0xb8d0a3 node::OOMErrorHandler(char const*, v8::OOMDetails const&) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.209 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  2: 0xf062e0 v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, v8::OOMDetails const&) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.212 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  3: 0xf065c7 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, v8::OOMDetails const&) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.212 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  4: 0x1118165  [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.217 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  5: 0x112ffe8 v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.222 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  6: 0x1106101 v8::internal::HeapAllocator::AllocateRawWithLightRetrySlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.226 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  7: 0x1107295 v8::internal::HeapAllocator::AllocateRawWithRetryOrFailSlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.227 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  8: 0x10e39b6 v8::internal::Factory::AllocateRaw(int, v8::internal::AllocationType, v8::internal::AllocationAlignment) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.230 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr>  9: 0x10d55e4 v8::internal::FactoryBase<v8::internal::Factory>::AllocateRawWithImmortalMap(int, v8::internal::AllocationType, v8::internal::Map, v8::internal::AllocationAlignment) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.235 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 10: 0x10d7dc6 v8::internal::FactoryBase<v8::internal::Factory>::NewRawOneByteString(int, v8::internal::AllocationType) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.235 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 11: 0x10eede4 v8::internal::Factory::NewStringFromUtf8(v8::base::Vector<char const> const&, v8::internal::AllocationType) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.236 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 12: 0xf18b72 v8::String::NewFromUtf8(v8::Isolate*, char const*, v8::NewStringType, int) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.243 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 13: 0xdf15c7  [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.244 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 14: 0xdf16ff node::StringDecoder::DecodeData(v8::Isolate*, char const*, unsigned long*) [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+
+2025-03-19 07:22:22.245 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908><stderr> 15: 0xdf1c3d  [/vscode/bin/linux-x64/ddc367ed5c8936efe395cffeec279b04ffd7db78/node]
+16: 0x70ff1324d546 
+
+2025-03-19 07:22:22.869 [info] [127.0.0.1][9e570446][ExtensionHostConnection] <71908> Extension Host Process exited with code: null, signal: SIGABRT.
+2025-03-19 07:22:29.208 [info] [127.0.0.1][4c8aa13b][ExtensionHostConnection] <60336> Extension Host Process exited with code: 0, signal: null.
+2025-03-19 07:22:29.209 [info] Last EH closed, waiting before shutting down
+2025-03-19 07:22:35.934 [info] [127.0.0.1][53d6dc39][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-19 07:22:35.934 [error] [127.0.0.1][9e570446][ExtensionHostConnection] Unknown reconnection token (seen before).
+2025-03-19 07:22:37.755 [info] [127.0.0.1][5e340631][ExtensionHostConnection] New connection established.
+2025-03-19 07:22:37.758 [info] [127.0.0.1][5e340631][ExtensionHostConnection] <75417> Launched Extension Host Process.
+2025-03-19 07:22:37.805 [info] [127.0.0.1][5e340631][ExtensionHostConnection] <75417><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/58538be76d7964e2ab11fd1da9cdb713.ja/ddc367ed5c8936efe395cffeec279b04ffd7db78/nls.messages.json'
+
+2025-03-19 07:27:29.209 [info] New EH opened, aborting shutdown
+2025-03-19 07:27:36.049 [info] [127.0.0.1][53d6dc39][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-19 08:16:37.772 [info] [127.0.0.1][5e340631][ExtensionHostConnection] <75417> Extension Host Process exited with code: null, signal: SIGTERM.
+2025-03-19 08:16:37.777 [info] Last EH closed, waiting before shutting down
+2025-03-19 08:21:37.776 [info] Last EH closed, shutting down
