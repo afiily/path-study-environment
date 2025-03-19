@@ -64,3 +64,14 @@
     at oy._getAuthSession (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:515:3075)
     at Object.o [as task] (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:515:688)
     at Rl._processQueue (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:514:1056)
+2025-03-19 05:57:13.915 [info] Logged in as afiily
+2025-03-19 05:57:14.380 [warning] Invalid copilot token: missing token: 403 
+2025-03-19 05:57:14.380 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-03-19 05:57:14.380 [error] Error: No access to GitHub Copilot found. You are currently logged in as afiily.
+    at EG._authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:425:53962)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at EG.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:425:52993)
+    at YO.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:415:3354)
+    at oy._getAuthSession (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:515:3075)
+    at Object.o [as task] (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:515:688)
+    at Rl._processQueue (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.25.1/dist/extension.js:514:1056)
